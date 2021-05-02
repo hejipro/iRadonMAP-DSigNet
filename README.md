@@ -1,6 +1,6 @@
 # DSigNet
 
-Downsampled Imaging Geometric Modeling for Accurate CT Reconstruction via Deep Learning
+Title: Downsampled Imaging Geometric Modeling for Accurate CT Reconstruction via Deep Learning
 
 Author: heji, Southern Medical University, Guangzhou, China. E-mail: heji@smu.edu.cn
 
