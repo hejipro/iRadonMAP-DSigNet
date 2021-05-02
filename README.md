@@ -4,6 +4,8 @@ Downsampled Imaging Geometric Modeling for Accurate CT Reconstruction via Deep L
 
 Author: heji, Southern Medical University, Guangzhou, China. E-mail: heji@smu.edu.cn
 
+Dataset: 2016 NIH-AAPM-Mayo Clinic Low Dose CT Grand Challenge 
+
 Reference:
 
 [1] Ji He, Shilin Chen, Hua Zhang, Xi Tao, Wuhong Lin, Shanli Zhang, Dong Zeng, and Jianhua Ma. Downsampled Imaging Geometric Modeling 
